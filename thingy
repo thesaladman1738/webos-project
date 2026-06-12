@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html>
 
-  <body style="font-family: American Typewriter, New Century Schoolbook, serif">
+  <body style="font-family: American Typewriter, New Century Schoolbook, serif"">
   <img src="D:\Download\image.png" alt="FRAUD // THIRD - DISINTEGRATION LOOP" width="960" height="540">
-    <h1> hey! salad here </h1>
-  <p> made a lil webpage</p>
+    <h1 style="margin:4px; padding:4px;color:#ffffff; background-color:#260574"> hey! salad here. welcome to this shoddy webpage</h1>
+  <p>i have like no experience with coding</p>
 
   <img style="border-radius:16px;object-fit:cover" src="D:\Download\PXL_20251231_023427251.MP (1).jpg" alt="my cat sesame" width="180" height="239">
 
-  <h2>about me</h2>
-  <p>as you can see, i have a cat</p>
-  <p>i'm also a bassoonist and overall a big music guy</p>
-  <p>huge fan of <a href="https://jamies.page">jamie paige</a> and <a href="https://heavenpierceher.bandcamp.com">heaven pierce her</a></p>
-  <p>that's about it</p>
-  <p>have a good day twin</p>
+  <h2 style="margin:4px; padding:4px; color:#60D95D ;background-color:#f0a433">about me</h2>
+  <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font: size 32px">as you can see, i have a cat<br>
+  i'm also a <img src="https://philharmonia-assets.s3.eu-west-1.amazonaws.com/uploads/2020/01/20092901/09_bassoon_flat-960x600.jpg" alt="a bassoon" width="32" height="20" style="object-fit:cover">bassoonist and overall a big music guy<br>
+  huge fan of <img src="https://jamies.page/images/redhrt.png"><img src="https://jamies.page/images/grnhrt.png"><a href="https://jamies.page">jamie paige</a> and <a href="https://heavenpierceher.bandcamp.com">heaven pierce her</a><br>
+  i have much to say about my favorite artists feel free to ask<br>
+  you can usually catch me playing something like slay the spire or warframe too if you're into that<br>
+  that's about it<br>
+  have a good day twin</p>
   
   </body>
 
