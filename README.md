@@ -1,1 +1,3 @@
-contains the html file for a project i'm making for hack club's stardance challenge and maybe more eventually
+salad's webOS project
+
+learn about the guy who made this webpage! now with wacky interactables!
