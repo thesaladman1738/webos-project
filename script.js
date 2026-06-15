@@ -1,9 +1,13 @@
+var currentTime = new Date().toLocaleString();
+var timeText = document.querySelector("#timeElement");
+
 function updateTime() {
       var currentTime = new Date().toLocaleString();
       var TimeText = document.querySelector("#timeElement")
       timeText.innerHTML = currentTime
       }
       setInterval(updateTime,1000);
+
 // Make the DIV element draggable:
 dragElement(document.getElementById("window"));
 
