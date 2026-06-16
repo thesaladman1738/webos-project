@@ -73,3 +73,35 @@ welcomeScreenClose.addEventListener("click",function() {
 welcomeScreenOpen.addEventListener("click", function() {
   openWindow(welcomeScreen);
 });
+
+var selectedIcon = undefined
+
+const element = document.querySelector("#appButton");
+
+element.addEventListener("click", function() {
+  var selectedIcon = element
+});
+
+function deselectIcon(element) {
+    element.classList.remove("selected");
+    if (selectedIcon === element) {
+        selectedIcon = undefined;
+    }
+}
+
+function selectIcon(element) {
+    if (selectedIcon && selectedIcon !== element) {
+        deselectIcon(selectedIcon);
+    }
+    element.classList.add("selected");
+    selectedIcon = element;
+}
+
+function handleTapIcon(element) {
+    if(element.classList.contains("selected") == true) {
+        deselectIcon(element);
+        openWindow(window);
+    } else {
+        selectIcon(element);
+    }
+}

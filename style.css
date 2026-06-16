@@ -37,3 +37,8 @@
     margin:4px;
 }
 
+.selected {
+    background-color:#fff;
+    opacity: 50%;
+}
+
